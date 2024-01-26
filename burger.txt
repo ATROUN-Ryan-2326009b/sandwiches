@@ -5,7 +5,5 @@ Cornichons
 Oeuf
 Steack
 bacon
-Cheddar
 Ketchup
 Moutarde
-Pain
